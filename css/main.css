@@ -1,6 +1,43 @@
 .nav-spacing {
     margin-left: 10px;
+    text-decoration: none;
+    color: #000000;
   }
-  .nav-menu {
+.nav-menu {
     text-align: right;
-  }
+}
+.image-link {
+    text-decoration: none;
+    color: #000000;
+}
+.centred-headers {
+    text-align: center; 
+    margin: 0 0 80px;
+}
+.block-image {
+    display: block; 
+    margin: 0 auto;
+}
+.callout-box {
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+.book-quote {
+    font-style: italic;
+    font-size: 20px;
+}
+.quote-start {
+    font-style: normal;
+    font-size: 24px;
+    font-weight:bold;
+    color: #cccccc;
+}
+.book-image {
+    float: left;
+    margin-right: 40px;
+}
+.table-item {
+    padding: 10px
+}
